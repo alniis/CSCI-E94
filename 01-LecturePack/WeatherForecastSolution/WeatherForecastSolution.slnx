@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Configuration Solution="Debug|Any CPU" />
+    <Configuration Solution="Release|Any CPU" />
+  </Configurations>
+  <Project Path="WeatherForecast\WeatherForecast.csproj" Type="C#">
+    <Configuration Solution="Debug|Any CPU" Project="Debug|Any CPU" />
+    <Configuration Solution="Release|Any CPU" Project="Release|Any CPU" />
+  </Project>
+</Solution>

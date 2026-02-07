@@ -1,0 +1,7 @@
+#@WeatherForecast_HostAddress = http://localhost:5130
+@WeatherForecast_HostAddress = https://app-cscie94-demo-weatherforecastdemo.azurewebsites.net
+
+GET {{WeatherForecast_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

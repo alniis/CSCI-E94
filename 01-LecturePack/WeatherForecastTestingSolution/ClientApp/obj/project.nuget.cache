@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "k32XbphW35E=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\01-LecturePack\\WeatherForecastTestingSolution\\ClientApp\\ClientApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex Isong\\.nuget\\packages\\microsoft.extensions.apidescription.client\\9.0.1\\microsoft.extensions.apidescription.client.9.0.1.nupkg.sha512",
+    "C:\\Users\\Alex Isong\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Alex Isong\\.nuget\\packages\\nswag.apidescription.client\\14.2.0\\nswag.apidescription.client.14.2.0.nupkg.sha512",
+    "C:\\Users\\Alex Isong\\.nuget\\packages\\nswag.msbuild\\14.2.0\\nswag.msbuild.14.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

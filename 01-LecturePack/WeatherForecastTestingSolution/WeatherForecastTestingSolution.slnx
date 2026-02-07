@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path="Sample HTTP Requests\ExampleGETByIdRequest.http" />
+    <File Path="Sample HTTP Requests\ExampleGETRequest.http" />
+    <File Path="Sample HTTP Requests\ExamplePOSTRequest.http" />
+  </Folder>
+  <Project Path="WeatherForecastTesting\WeatherForecastTesting.csproj" Type="C#" />
+  <Project Path="FunctionalTests\FunctionalTests.csproj" Type="C#" />
+  <Project Path="CommonLib\CommonLib.csproj" Type="C#" />
+  <Project Path="ClientApp\ClientApp.csproj" Type="C#" />
+  <Properties Name="Visual Studio">
+    <Property Name="OpenWith" Value="Visual Studio Version 17" />
+  </Properties>
+</Solution>

@@ -1,0 +1,87 @@
+{
+  "openapi": "3.0.4",
+  "info": {
+    "title": "Weather Forecast",
+    "version": "v1"
+  },
+  "paths": {
+    "/WeatherForecast": {
+      "get": {
+        "tags": [
+          "WeatherForecast"
+        ],
+        "summary": "Provides a randomly generated set of weather forecasts",
+        "description": "Sample request:\r\n\r\nGET /weatherforecast",
+        "operationId": "GetWeatherForecast",
+        "responses": {
+          "200": {
+            "description": "Indicates the request was successful",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/WeatherForecast"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "WeatherForecast": {
+        "type": "object",
+        "properties": {
+          "date": {
+            "type": "string",
+            "description": "Gets or sets the date of the weather forecast.",
+            "format": "date"
+          },
+          "temperatureC": {
+            "type": "integer",
+            "description": "Gets or sets the temperature in Celsius.",
+            "format": "int32"
+          },
+          "temperatureF": {
+            "type": "integer",
+            "description": "Gets the temperature in Fahrenheit.",
+            "format": "int32",
+            "readOnly": true
+          },
+          "summary": {
+            "type": "string",
+            "description": "Gets or sets a summary of the weather forecast.",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false,
+        "description": "Represents a weather forecast for a specific date."
+      }
+    }
+  },
+  "tags": [
+    {
+      "name": "WeatherForecast"
+    }
+  ]
+}

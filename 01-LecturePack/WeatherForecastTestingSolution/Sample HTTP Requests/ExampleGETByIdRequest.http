@@ -1,0 +1,1 @@
+GET https://localhost:9112/api/WeatherForecast/1ea5ec51-77cc-447b-8fe5-1c622935db86<obtain the id by running the ExampleGETRequest.http>
