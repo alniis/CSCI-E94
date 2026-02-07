@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-Assignment\\HW1NoteKeeperSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AE78A99D-083C-4722-BC53-B2D4874B3646}|HW1NoteKeeper\\HW1NoteKeeper.csproj|c:\\users\\alex isong\\documents\\harvard extension school\\csci e-94\\cscie94\\01-assignment\\hw1notekeepersolution\\hw1notekeeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE78A99D-083C-4722-BC53-B2D4874B3646}|HW1NoteKeeper\\HW1NoteKeeper.csproj|solutionrelative:hw1notekeeper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE78A99D-083C-4722-BC53-B2D4874B3646}|HW1NoteKeeper\\HW1NoteKeeper.csproj|c:\\users\\alex isong\\documents\\harvard extension school\\csci e-94\\cscie94\\01-assignment\\hw1notekeepersolution\\hw1notekeeper\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE78A99D-083C-4722-BC53-B2D4874B3646}|HW1NoteKeeper\\HW1NoteKeeper.csproj|solutionrelative:hw1notekeeper\\controllers\\notescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-Assignment\\HW1NoteKeeperSolution\\HW1NoteKeeper\\Program.cs",
+              "RelativeDocumentMoniker": "HW1NoteKeeper\\Program.cs",
+              "ToolTip": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-Assignment\\HW1NoteKeeperSolution\\HW1NoteKeeper\\Program.cs",
+              "RelativeToolTip": "HW1NoteKeeper\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAmwDsAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T22:12:08.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NotesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-Assignment\\HW1NoteKeeperSolution\\HW1NoteKeeper\\Controllers\\NotesController.cs",
+              "RelativeDocumentMoniker": "HW1NoteKeeper\\Controllers\\NotesController.cs",
+              "ToolTip": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-Assignment\\HW1NoteKeeperSolution\\HW1NoteKeeper\\Controllers\\NotesController.cs",
+              "RelativeToolTip": "HW1NoteKeeper\\Controllers\\NotesController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T18:13:21.543Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

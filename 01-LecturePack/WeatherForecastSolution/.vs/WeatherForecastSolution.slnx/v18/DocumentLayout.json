@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\01-LecturePack\\WeatherForecastSolution\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F088C-953E-BA27-0680-1947192D0390}|WeatherForecast\\WeatherForecast.csproj|c:\\users\\alex isong\\documents\\harvard extension school\\csci e-94\\cscie94\\01-lecturepack\\weatherforecastsolution\\weatherforecast\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C50F088C-953E-BA27-0680-1947192D0390}|WeatherForecast\\WeatherForecast.csproj|solutionrelative:weatherforecast\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C50F088C-953E-BA27-0680-1947192D0390}|WeatherForecast\\WeatherForecast.csproj|c:\\users\\alex isong\\documents\\harvard extension school\\csci e-94\\cscie94\\01-lecturepack\\weatherforecastsolution\\weatherforecast\\weatherforecast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C50F088C-953E-BA27-0680-1947192D0390}|WeatherForecast\\WeatherForecast.csproj|solutionrelative:weatherforecast\\weatherforecast.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.csproj",
+              "DocumentMoniker": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastSolution\\WeatherForecast\\WeatherForecast.csproj",
+              "RelativeDocumentMoniker": "WeatherForecast\\WeatherForecast.csproj",
+              "ToolTip": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastSolution\\WeatherForecast\\WeatherForecast.csproj",
+              "RelativeToolTip": "WeatherForecast\\WeatherForecast.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-02-07T21:19:21.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastSolution\\WeatherForecast\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "WeatherForecast\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastSolution\\WeatherForecast\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "WeatherForecast\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-07T21:08:46.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

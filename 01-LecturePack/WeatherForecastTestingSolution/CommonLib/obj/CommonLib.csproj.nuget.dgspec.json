@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\CommonLib.csproj": {}
+    "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\CommonLib.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\CommonLib.csproj": {
+    "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\CommonLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\CommonLib.csproj",
+        "projectUniqueName": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\CommonLib.csproj",
         "projectName": "CommonLib",
-        "projectPath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\CommonLib.csproj",
+        "projectPath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\CommonLib.csproj",
         "packagesPath": "C:\\Users\\Alex Isong\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\obj\\",
+        "outputPath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastTestingSolution\\CommonLib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

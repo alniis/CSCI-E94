@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Jg+rNy0BcG4=",
+  "dgSpecHash": "ZrsijTRVAuY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\01-LecturePack\\WeatherForecastSolution\\WeatherForecast\\WeatherForecast.csproj",
+  "projectFilePath": "C:\\Users\\Alex Isong\\Documents\\Harvard Extension School\\CSCI E-94\\CSCIE94\\01-LecturePack\\WeatherForecastSolution\\WeatherForecast\\WeatherForecast.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alex Isong\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.2\\microsoft.aspnetcore.openapi.10.0.2.nupkg.sha512",
     "C:\\Users\\Alex Isong\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
